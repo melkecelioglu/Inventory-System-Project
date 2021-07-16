@@ -10,15 +10,15 @@ AddItem option helps user to add, delete and update.Stock page allows user to ch
 On the Sell page user can sell items using item code. When user type item code the data retrieved from the database also the user can insert quantity and sell. When selling the items, this system automatically generates an invoice. Then the user can print this invoice. Report page has some features like searching for dates and categories. Advanced Setting has a lisence text Area which user can search for words and also check if the internet connection is avaliable or not and a pie chart. Last page Bored aims user to have fun. There is a game, listenin music part and a color Chooser area.
 
 
-The technologies used in inventory management system project
+**** The technologies used in inventory management system project
 • Java: All codes have been written using the java programming language. • MySql: MySql has used as a database for this project.
 • Apache: This project has developed inside of the Apache.
 The goals of providing this project:
 • Check the product status
-• Control the system
+• Control the system ****
 
 
-6. Things Done During the Project
+3. Things Done During the Project
 First of all I draw an outline of the project. I’ve written the components I will be needded. I though a lot on how to make my project easy to use also effective.I started my project by designing the JFrames. After adding tables, labels, JTextFileds, and a lot more components. I made my project design as undecorated, I created my own closing option by clicking on an image. For Swing Components that does not exist on my Swing Control Panel, I added JAR libraries and import them (For instance jCalendar, GradientPanels also to Connect mysql connector).
 After designing, I created MySQL database tables, variables and connected it to the project. Then I tried to SELECT, UPDATE, DELETE and INSERT my datas. That part was a bit compelling for me, I often got SQL Syntax Error. Because of my Home panel has not changed, I just change the main part, I used InternalFrames. I also learned how to create my own jar library.
 I wanted to change the password part as sending SMS, not e-mail. But I searched on the internet and the way of sending OTP Messages is to use textlocal.co.uk I am not located in UK right now, that is why I could not even Subscribe to the system. I Verified the new password by sending E-mails.
@@ -26,12 +26,12 @@ I wanted to change the password part as sending SMS, not e-mail. But I searched 
 
 
 
-7. Annotations
+4. Annotations
 Initially, I have learned thanks to this project. Inventory Managements system project strengthen my knowledge, pratic and speed on Java, Swing and GUI. I had a lot fun especially Coding on PingPong and Graphics part. I had struggled a lot on Database Connection, Inserting, Updating and adding part. I have realised that struggling, taking a lot of errors expands my knowledge and helps me to master the subject. I learned how to control MySQL workbench, experienced improving coding games, graphics, image silde shows and a lot more exciting Applications on Netbeans, Apache. This project expanded my horizon on coding in Java. I realised that I can do a lot things with Java!
 
 
 
-8. References
+5. References
 • YouTube *
 • StackOverFlow* • Java Tutorials ** • GitHub ***
 * Whenever I had errors or stuck on my code, first of all I tried to detect the problem, I tried out to solve the problem on my own, if I could not solve it after approximately 20 minutes, I took a look at StackOverFlow, If I still could not solve the problem, then I got some help from YouTube.
