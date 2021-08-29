@@ -7,7 +7,7 @@ Initial Page:
 <img width="538" alt="Screen Shot 2021-08-29 at 21 35 23" src="https://user-images.githubusercontent.com/67334822/131261572-4a39f975-f60c-412b-a19a-5b430faaa156.png">
 
 If the user forgot password this page will open:
-<img width="547" alt="Screen Shot 2021-08-29 at 21 29 24" src="https://user-images.githubusercontent.com/67334822/131261430-4ccbe95a-d06e-428d-892e-424cfafa732a.png">
+<img width="542" alt="Screen Shot 2021-08-29 at 21 33 06" src="https://user-images.githubusercontent.com/67334822/131261508-abb6a5f4-9bae-404c-81d6-781cd362ee73.png">
 
 SignUp:
 <img width="541" alt="Screen Shot 2021-08-29 at 21 30 44" src="https://user-images.githubusercontent.com/67334822/131261457-9d9cb01a-9a86-444d-bdf0-1602460285aa.png">
@@ -15,7 +15,7 @@ SignUp:
 Change user info:
 <img width="535" alt="Screen Shot 2021-08-29 at 21 32 07" src="https://user-images.githubusercontent.com/67334822/131261490-51cbf86a-1674-474e-bbce-7117cb16746c.png">
 
-<img width="542" alt="Screen Shot 2021-08-29 at 21 33 06" src="https://user-images.githubusercontent.com/67334822/131261508-abb6a5f4-9bae-404c-81d6-781cd362ee73.png">
+
 
 
 
