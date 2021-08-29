@@ -8,6 +8,10 @@
 
 
 
+<img width="541" alt="Screen Shot 2021-08-29 at 21 30 44" src="https://user-images.githubusercontent.com/67334822/131261457-9d9cb01a-9a86-444d-bdf0-1602460285aa.png">
+
+
+
 
 2. Project topic
 Inventory management system can use to manage sales, stock, payments. Further, here include so many features with java modern GUI.
