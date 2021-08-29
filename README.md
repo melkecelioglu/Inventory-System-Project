@@ -3,8 +3,9 @@
 1. Summary
 “Inventory Management and Tracking System” is a Java Swing Programme that aims a company’s personnel’s to track, get and edit the details about the company’s products. It is a simple and easy to use system which is available for authorized personnels so that everybody can not reach the company’s informations. The system contains the receipts and a lot more details about the products.
 
-Initial Page: 
+Overview Of Project : 
 --
+Initial Page:
 <img width="538" alt="Screen Shot 2021-08-29 at 21 35 23" src="https://user-images.githubusercontent.com/67334822/131261572-4a39f975-f60c-412b-a19a-5b430faaa156.png">
 --
 If the user forgot password this page will open:
